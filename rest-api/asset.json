@@ -1,0 +1,55 @@
+{
+  "productId": "1",
+  "product_name_en": "Frozen Hilsa Fish",
+  "product_name_bn": "Frozen Hilsa Fish",
+  "species_en": "Hilsa",
+  "species_bn": "Hilsa",
+  "date_of_harvesting": "2025-09-01",
+  "date_of_packaging": "2025-09-03",
+  "expired_date": "2026-03-01",
+  "mrp": 1200.5,
+  "has_blast_freezer": true,
+  "has_iqf": false,
+  "has_vacuum_package": true,
+  "has_food_grade_package_ldpe_4": true,
+  "storage_en": "Cold Storage Dhaka",
+  "storage_bn": "Cold Storage Dhaka",
+  "water_source_en": [
+    "Filtered water",
+    "Arsenic"
+  ],
+  "water_source_bn": [
+    "Filtered water",
+    "Arsenic"
+  ],
+  "has_freezer_van_transportation": true,
+  "batch_number": "BATCH-001",
+  "secondary_batch": "SBATCH-001",
+  "lot_number": "LOT-001",
+  "net_weight": 2.5,
+  "certification_en": [
+    "ISO22000",
+    "HACCP"
+  ],
+  "certification_bn": [
+    "ISO22000",
+    "HACCP"
+  ],
+  "certification_link": [
+    "https://iso.org/22000",
+    "https://haccp.org"
+  ],
+  "production_latitude": 23.8103,
+  "production_longitude": 90.4125,
+  "producer_organization_en": "Padma Fisheries Ltd",
+  "producer_organization_bn": "Padma Fisheries Ltd",
+  "livestock_collection_center_latitude": 23.90,
+  "livestock_collection_center_longitude": 90.44,
+  "collector_organization_en": "Dhaka Fish Collectors",
+  "collector_organization_bn": "Dhaka Fish Collectors",
+  "livestock_processing_unit_latitude": 23.75,
+  "livestock_processing_unit_longitude": 90.39,
+  "processor_organization_en": "Bangladesh Fish Processing Ltd",
+  "processor_organization_bn": "Bangladesh Fish Processing Ltd",
+  "docType": "asset"
+}
