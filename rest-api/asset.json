@@ -1,9 +1,9 @@
 {
   "productId": "1",
-  "product_name_en": "Frozen Hilsa Fish",
-  "product_name_bn": "Frozen Hilsa Fish",
-  "species_en": "Hilsa",
-  "species_bn": "Hilsa",
+  "product_name_en": "Beef Sirloin Steak",
+  "product_name_bn": "গরুর মাংসের সিরলোইন স্টেক",
+  "species_en": "Bos Taurus",
+  "species_bn": "বস টরাস",
   "date_of_harvesting": "2025-09-01",
   "date_of_packaging": "2025-09-03",
   "expired_date": "2026-03-01",
@@ -12,15 +12,15 @@
   "has_iqf": false,
   "has_vacuum_package": true,
   "has_food_grade_package_ldpe_4": true,
-  "storage_en": "Cold Storage Dhaka",
-  "storage_bn": "Cold Storage Dhaka",
+  "storage_en": "Room temparature",
+  "storage_bn": "ঘরের তাপমাত্রা",
   "water_source_en": [
-    "Filtered water",
-    "Arsenic"
+    "Clean groundwater used for cleaning the processing zone",
+    "Potable water (Reverse osmosis) used for washing utensils"
   ],
   "water_source_bn": [
-    "Filtered water",
-    "Arsenic"
+    "প্রক্রিয়াজাতকরণ অঞ্চল পরিষ্কারের জন্য ব্যবহৃত পরিষ্কার ভূগর্ভস্থ জল",
+    "বাসন ধোয়ার জন্য ব্যবহৃত পানীয় জল (রিভার্স অসমোসিস)"
   ],
   "has_freezer_van_transportation": true,
   "batch_number": "BATCH-001",
@@ -41,15 +41,15 @@
   ],
   "production_latitude": 23.8103,
   "production_longitude": 90.4125,
-  "producer_organization_en": "Padma Fisheries Ltd",
-  "producer_organization_bn": "Padma Fisheries Ltd",
+  "producer_organization_en": "Safa Agro",
+  "producer_organization_bn": "সাফা এগ্রো",
   "livestock_collection_center_latitude": 23.90,
   "livestock_collection_center_longitude": 90.44,
-  "collector_organization_en": "Dhaka Fish Collectors",
-  "collector_organization_bn": "Dhaka Fish Collectors",
+  "collector_organization_en": "Golden Harvest Agro Industries Ltd.",
+  "collector_organization_bn": "গোল্ডেন হারভেস্ট অ্যাগ্রো ইন্ডাস্ট্রিজ লিমিটেড",
   "livestock_processing_unit_latitude": 23.75,
   "livestock_processing_unit_longitude": 90.39,
-  "processor_organization_en": "Bangladesh Fish Processing Ltd",
-  "processor_organization_bn": "Bangladesh Fish Processing Ltd",
+  "processor_organization_en": "Bengal Meat Processing Industries Ltd",
+  "processor_organization_bn": "বেঙ্গল মিট প্রসেসিং ইন্ডাস্ট্রিজ লিমিটেড",
   "docType": "asset"
 }
